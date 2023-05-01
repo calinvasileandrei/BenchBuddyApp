@@ -1,4 +1,4 @@
-# BenchBuddyApp
+# BenchBuddyApp ~ Coming Soon on AppStore
 
 Are you tired of scribbling down your workouts on a notepad or trying to remember the weights you lifted last time? Look no further than BenchBuddyApp!
 
